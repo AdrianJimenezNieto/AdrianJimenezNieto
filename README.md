@@ -16,3 +16,5 @@
 [Custom ChatBot🤖](https://github.com/AdrianJimenezNieto/chatbot)
 
 [AI Generador de Anuncios Inmobiliarios🏢](https://github.com/AdrianJimenezNieto/generador-anuncios-inmobiliarias)
+
+[GenAI Blog Generator🅱️](https://github.com/AdrianJimenezNieto/llm-blog)
