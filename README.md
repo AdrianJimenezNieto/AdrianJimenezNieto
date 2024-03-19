@@ -1,10 +1,11 @@
 # Hola a todos! 👋 Bienvenidos a mi perfil de GitHub
 
-### Aquí podrás encontrar todo el código que he aprendido y proyectos en los que estoy trabajando
+<p align="center" width="300">
+   <img align="center" width="200" src="https://drive.google.com/uc?id=18mOEoceJ8GJ8uSrEp1aotcQuo3OlV43s" />
+   <h3 align="center">¡Hey 👋! Soy Adrián Jiménez 👨🏻‍💻</h3>
+</p>
 
-<div style="text-align: center;">
-  <img src='https://drive.google.com/uc?id=18mOEoceJ8GJ8uSrEp1aotcQuo3OlV43s' width=40%/>
-</div>
+### Aquí podrás encontrar todo el código que he aprendido y proyectos en los que estoy trabajando
 
 ## Mis repositorios📚:
 
